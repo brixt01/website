@@ -76,6 +76,11 @@
         font-family: sans-serif;
     }
 
+    .body a:link {color: #0000EE;}
+    .body a:visited {color: #0000EE;}
+    .body a:hover {color: #0000EE;}
+    .body a:active {color: #0000EE;}
+
 /* Footer */
     .footer {
         padding: 10px;
@@ -84,10 +89,10 @@
         color: white;
     }
 
-    a:link {color: white;}
-    a:visited {color: white;}
-    a:hover {color: #999;}
-    a:active {color: white;}
+    .footer a:link {color: white;}
+    .footer a:visited {color: white;}
+    .footer a:hover {color: #999;}
+    .footer a:active {color: white;}
 
     /* Columns */
     .column {
