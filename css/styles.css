@@ -1,17 +1,22 @@
 /* Heading */
     .header {
-        padding: 5px;
+        padding: 10px;
         text-align: center;
-        background: #1abc9c;
+        background-image: url("../images/robot_background.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
         color: white;
         font-family: serif;
     }
   
     .header h1 {
         font-size: 40px;
+        text-shadow: 0px 0px 5px #000;
     }
 
     .header p {
+        text-shadow: 0px 0px 5px #000;
         font-family: sans-serif;
     }
 
@@ -61,10 +66,9 @@
     .body h2 {
         font-size: 25px;
         font-family: serif;
-        text-decoration: underline;
     }
 
-    .body p1 {
+    .body p {
         font-size: 15px;
         font-family: sans-serif;
     }
@@ -72,9 +76,15 @@
 /* Footer */
     .footer {
         padding: 10px;
-        background: #ddd;
+        background: #333;
         font-size: 12px;
+        color: white;
     }
+
+    a:link {color: white;}
+    a:visited {color: white;}
+    a:hover {color: #999;}
+    a:active {color: white;}
 
     /* Columns */
     .column {
