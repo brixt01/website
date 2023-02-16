@@ -9,9 +9,11 @@
 ### Home page
 - This is a website to showcase projets I've worked on. 
 
-### Projects page
-- Completed projects (links to each project's page)
-- In progress projects (links to each project's page)
+### Completed projects page
+- Links to each project's page
+
+### In progress projects page
+- Links to each project's page
 
 ### About me page
 - Education
