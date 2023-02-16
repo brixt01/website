@@ -55,6 +55,9 @@
 /* Body */
     .body {
         min-height: 100vh;
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .body h1 {
