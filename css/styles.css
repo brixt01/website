@@ -4,10 +4,15 @@
         text-align: center;
         background: #1abc9c;
         color: white;
+        font-family: serif;
     }
   
     .header h1 {
         font-size: 40px;
+    }
+
+    .header p {
+        font-family: sans-serif;
     }
 
 /* Navbar */
